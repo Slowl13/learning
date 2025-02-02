@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+}
+
+.profile-container{
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+    background-color: #EFD9CE;
+    overflow: hidden;
+}
+
+.hobbies-list li {
+    text-align: left;
+}
+
+.hobbies-list {
+    margin-bottom: 21px;
+}
+
+h1 {
+    border-bottom: 1px solid black;
+    margin: 21px 0;
+}
